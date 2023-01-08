@@ -6,17 +6,17 @@ Jednou z výziev pri dosahovaní vysvetliteľnosti pre modely NLP je, že tieto 
  
 ## Experimenty
 
-Klasifikácia dokumentov (na úrovni dokumentov)
-Extrahovanie pomenovaných entít (na úrovni slov - tokenov)
-Part of speach tagging, 
-Dependency Parsing
+- Klasifikácia dokumentov (na úrovni dokumentov)
+- Extrahovanie pomenovaných entít (na úrovni slov - tokenov)
+- Part of speach tagging, 
+- Dependency Parsing
 
-## Prístup
-Analýza dátovej množiny na účely výskumu
-Predspracovanie textu
-Rozdelenie datasetu
-Vytvorenie modelu
-Trénovanie modelu
-Predikcia modelu
-Aplikácia vysvetliteľnosti modelov 
-Evaluácia výsledkov
+### Prístup ###
+1. Analýza dátovej množiny na účely výskumu 
+2. Predspracovanie textu 
+3. Rozdelenie datasetu 
+4. Vytvorenie modelu 
+5. Trénovanie modelu 
+6. Predikcia modelu 
+7. Aplikácia vysvetliteľnosti modelov 
+8. Evaluácia výsledkov
