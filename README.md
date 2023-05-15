@@ -7,11 +7,9 @@ Jednou z výziev pri dosahovaní vysvetliteľnosti pre modely NLP je, že tieto 
  
 ## Experimenty
 
-- Klasifikácia dokumentov (na úrovni dokumentov)
-- Analýza sentimentu
+- Analýza sentimentu (na úrovni dokumentov)
 - Extrahovanie pomenovaných entít (na úrovni slov - tokenov)
 - Part of speach tagging, 
-- Dependency Parsing
 
 ### Prístup ###
 1. Popis problematiky
